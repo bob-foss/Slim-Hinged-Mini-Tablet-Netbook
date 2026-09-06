@@ -1,8 +1,8 @@
 ## Slim Hinged Mini Tablet Netbook
 
-This is a simple netbook project revolving around a ZAGG keyboard-case. With this adapter, you can take any mini tablet (about 8 inches diagonally) and make it a functional netbook by combining it with a [ZAGG 5th Gen iPad mini case](https://www.ebay.com/itm/296127718453). ZAGG keyboard-cases are special due to their actual metal hinges (which are unusual for tablets), allowing you to adjust the angle while it sits on your lap.  They are also quite affordable. The result is a handsome netbook which makes a satisfying snapping sound when it closes. 
+This is a simple netbook project revolving around a ZAGG keyboard-case. With this adapter, you can take any mini tablet (about 8 inches diagonally) and make it a functional netbook by combining it with a [ZAGG 5th Gen iPad mini case](https://www.ebay.com/itm/296127718453). ZAGG keyboard-cases are special due to their actual metal hinges (which are unusual for tablets), allowing you to adjust the angle while it sits on your lap. They are also quite affordable. The result is a handsome netbook which makes a satisfying snapping sound when it closes. 
 
-Measurements for the STL were done by hand. Half millimeter adjustments may be necessary. If you have better measurements, please let me know via pull request. 
+Measurements for the STL were done by hand. Half millimeter adjustments may be necessary. 
 
 ### A simplified list of instructions. 
 1. Open up the black plastic hinge cover on the ZAGG keyboard-case to expose the metal hinge underneath.
@@ -51,7 +51,7 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 
 
 ### Recommendations and Ideas
-- Try TPU for the case for impact protection. If you do, I recommend a high infill especially for the adapter itself, otherwise the case won't hold up the tablet well.  
+- Try TPU for the case for impact protection. If you do, I recommend a high infill especially for the adapter itself.
 - Some tablets in this form factor accept a SIM card, so you can take calls from this set up!
 - Here's a sample Android config:
   - [Key Mapper](https://github.com/keymapperorg/KeyMapper)!
@@ -62,6 +62,10 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
     - [TK's Tree Style Tab Outliner](https://github.com/ToyKeeper/tktsto)
   - [Termux](https://github.com/termux)
   - WPS Office/Google Docs
-  - Obsidian 
+  - Obsidian
 - I do not recommend opening up the keyboard itself. It's held together by glue and little plastic clips. Opening it up *will* break the plastic clips.
-- You might also be interested in [MysteriousAlarm897's work]([url](https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/)) on doing something similar with a Lenovo Legion Go. 
+
+### Final Thoughts
+- This project is a way to turn lightweight tablets into decently portable & effective computers.
+- For small form factor computing with more power, you might also be interested in [MysteriousAlarm897's work]([url](https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/)) on doing something similar with a Lenovo Legion Go. Their first version included space extra batteries, but they also made a slimmer version. Mine is still skinnier though, lol.
+- 
