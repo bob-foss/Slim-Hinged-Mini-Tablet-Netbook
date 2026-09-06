@@ -67,6 +67,6 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 
 ### Final Thoughts
 - This project is a way to turn lightweight tablets into decently portable & effective computers.
-- I do not claim that this is groundbreaking work. Doing this project makes me feel like the first persn who taped a camera to a cell phone and called it a cameraphone.
+- I do not claim that this is groundbreaking work. This project makes me feel like the first persn who taped a camera to a cell phone and called it a cameraphone.
 - If you want more power in a small form factor, you might also be interested in [MysteriousAlarm897's work]([url](https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/)) on doing something similar with a Lenovo Legion Go. Their first version included space extra batteries, but they also made a slimmer version.
   - Mine is still skinnier though, lol.
