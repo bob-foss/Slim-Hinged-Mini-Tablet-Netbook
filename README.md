@@ -5,7 +5,7 @@ This is a simple netbook project revolving around a ZAGG keyboard-case. With thi
 Measurements for the STL were done by hand. Half millimeter adjustments may be necessary. If you have better measurements, please let me know via pull request. 
 
 ### A simplified list of instructions. 
-1. Open up the plastic hinge component on the ZAGG keyboard-case to expose the metal hinge underneath.
+1. Open up the black plastic hinge cover on the ZAGG keyboard-case to expose the metal hinge underneath.
 2. Unscrew the screws. You may need to use a rubber band for extra friction, the screws strip easily.
 3. 3D print a case for your tablet with the adapter attached.  
 4. Attach the screws, nuts and washers and you're done! Pair the Bluetooth keyboard and you're all set!
@@ -15,11 +15,11 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 - 3D print filament
 - 6 m2 screws, nuts and washers
 - 1 small form factor tablet, around the size of an iPad Mini 5th gen
-- 1 [ZAGG Keyboard Case for a ipad mini 5th Gen](https://www.ebay.com/itm/296127718453)
+- 1 [ZAGG Keyboard Case for a iPad Mini 5th Gen](https://www.ebay.com/itm/296127718453)
 - 1 STL file for a case
 
 ### Pictures and explanations
-1. This is the product without the black plastic covering taken off.
+1. This is the product without the black plastic covering taken off (a quarter for scale)
    - <img width="4032" height="3024" alt="PXL_20260905_134915090" src="https://github.com/user-attachments/assets/79ea1ec0-edea-46e5-9e70-82e3fae3b679" />
    - <img width="4032" height="3024" alt="PXL_20260905_134928619" src="https://github.com/user-attachments/assets/6633b270-f884-4fe7-8090-5fb4b0b66f5d" />
 
@@ -40,7 +40,8 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 
 7. This is the case I'm choosing. [Link to cults STL file](cults3d.com)
 8. This is me adding the STL to the case.
-   - <img width="603" height="573" alt="image" src="https://github.com/user-attachments/assets/2d9a0ace-e421-44c8-9e11-c468f2c6a32c" />
+   - <img width="664" height="631" alt="image" src="https://github.com/user-attachments/assets/ec2b237c-561d-41e6-8fe4-7c1083bd452c" />
+
 
 10. This is the completed STL + case.
    - <img width="3024" height="4032" alt="PXL_20260905_150944131" src="https://github.com/user-attachments/assets/ea003b34-b6a2-46c3-a70a-008e6a04f014" />
