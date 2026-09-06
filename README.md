@@ -39,7 +39,7 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 7. This is me using Tinkercad to add the adapter STL to the case.
    - <img width="664" height="631" alt="image" src="https://github.com/user-attachments/assets/ec2b237c-561d-41e6-8fe4-7c1083bd452c" />
 
-8. This is the completed adapter STL + case.
+8. This is the completed adapter STL + case (plus a few minor changes).
    - <img width="3024" height="4032" alt="PXL_20260905_150944131" src="https://github.com/user-attachments/assets/ea003b34-b6a2-46c3-a70a-008e6a04f014" />
 
 9. This is me installing the new case.
@@ -47,7 +47,7 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
    - <img width="4032" height="3024" alt="PXL_20260905_151916000" src="https://github.com/user-attachments/assets/f17743f9-8135-404d-b773-01532a0ebc74" />
 
 
-10. This is it all done.
+10. This is it all done!
    - <img width="4032" height="3024" alt="PXL_20260905_154329856" src="https://github.com/user-attachments/assets/40a15c65-c402-442f-8451-97df7cdf6913" />
 
 
