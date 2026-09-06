@@ -46,21 +46,22 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
    - <img width="3024" height="4032" alt="PXL_20260905_151148988" src="https://github.com/user-attachments/assets/de9a1316-5768-4aec-9322-531c94e3b810" />
    - <img width="4032" height="3024" alt="PXL_20260905_151916000" src="https://github.com/user-attachments/assets/f17743f9-8135-404d-b773-01532a0ebc74" />
 
-
 10. This is it all done!
    - <img width="4032" height="3024" alt="PXL_20260905_154329856" src="https://github.com/user-attachments/assets/40a15c65-c402-442f-8451-97df7cdf6913" />
 
 
 ### Recommendations and Ideas
-- Try TPU for the case for impact protection. If you do, I recommend a high infill otherwise the case won't hold up the tablet well.  
+- Try TPU for the case for impact protection. If you do, I recommend a high infill especially for the adapter itself, otherwise the case won't hold up the tablet well.  
 - Some tablets in this form factor accept a SIM card, so you can take calls from this set up!
 - Here's a sample Android config:
   - [Key Mapper](https://github.com/keymapperorg/KeyMapper)!
     - One of my favorite apps. Really kicks the usefulness up a notch. It turns this from "Here's a tablet with a keyboard" to "Wow, I could actually get some work done with this."
   - Kiwi Browser + your favorite desktop extensions
     - [uBlock Origin](https://github.com/gorhill/ublock)
-    - [Vimium](https://github.com/philc/vimium) 
+    - [Vimium](https://github.com/philc/vimium)
+    - [TK's Tree Style Tab Outliner](https://github.com/ToyKeeper/tktsto)
   - [Termux](https://github.com/termux)
   - WPS Office/Google Docs
   - Obsidian 
 - I do not recommend opening up the keyboard itself. It's held together by glue and little plastic clips. Opening it up *will* break the plastic clips.
+- You might also be interested in [MysteriousAlarm897's work]([url](https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/)) on doing something similar with a Lenovo Legion Go. 
