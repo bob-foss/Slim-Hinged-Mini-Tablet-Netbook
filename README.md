@@ -11,7 +11,7 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 4. Attach the screws, nuts and washers and you're done! Pair the Bluetooth keyboard and you're all set!
 
 ### Detailed list of components
-- The included STL
+- The included adapter STL
 - 3D print filament
 - 6 m2 screws, nuts and washers
 - 1 small form factor tablet, around the size of an iPad Mini 5th gen
@@ -19,39 +19,35 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
 - 1 STL file for a case
 
 ### Pictures and explanations
-1. This is the product without the black plastic covering taken off (a quarter for scale)
+1. This is the keyboard/case without the black plastic covering taken off (a quarter for scale).
    - <img width="4032" height="3024" alt="PXL_20260905_134915090" src="https://github.com/user-attachments/assets/79ea1ec0-edea-46e5-9e70-82e3fae3b679" />
    - <img width="4032" height="3024" alt="PXL_20260905_134928619" src="https://github.com/user-attachments/assets/6633b270-f884-4fe7-8090-5fb4b0b66f5d" />
 
-
-3. This is the black plastic hinge cover to take off.
+2. This is the black plastic hinge cover to take off.
    - <img width="4032" height="3024" alt="PXL_20260905_135004743" src="https://github.com/user-attachments/assets/821ce74d-ca62-4252-a0c9-075d797021d6" />
 
-4. This is how to pry the black plastic hinge cover off.
+3. This is how to pry the black plastic hinge cover off.
    - <img width="4032" height="3024" alt="PXL_20260905_135051993" src="https://github.com/user-attachments/assets/4284433d-b337-4615-a389-4644b207ef5c" />
 
-5. This is the product with the black plastic covering taken off.
+4. This is the keyboard/case with the black plastic covering taken off.
    - <img width="4032" height="3024" alt="PXL_20260905_135241055" src="https://github.com/user-attachments/assets/476f576b-5a21-4836-ad33-7dba462cfe8d" />
 
-   
-
-6. This is the product without the screws.
+5. This is the keyboard/case without the screws.
    - <img width="4032" height="3024" alt="PXL_20260905_150138889" src="https://github.com/user-attachments/assets/a395bf3e-d0f3-4482-bac3-64cdf050a5da" />
 
-7. This is the case I'm choosing. [Link to cults STL file](cults3d.com)
-8. This is me adding the STL to the case.
+6. This is the case I'm choosing for my model (Lenovo Legion Y700). [Link to cults STL file](cults3d.com)
+7. This is me using Tinkercad to add the adapter STL to the case.
    - <img width="664" height="631" alt="image" src="https://github.com/user-attachments/assets/ec2b237c-561d-41e6-8fe4-7c1083bd452c" />
 
-
-10. This is the completed STL + case.
+8. This is the completed adapter STL + case.
    - <img width="3024" height="4032" alt="PXL_20260905_150944131" src="https://github.com/user-attachments/assets/ea003b34-b6a2-46c3-a70a-008e6a04f014" />
 
-11. This is me installing the STL + case.
+9. This is me installing the new case.
    - <img width="3024" height="4032" alt="PXL_20260905_151148988" src="https://github.com/user-attachments/assets/de9a1316-5768-4aec-9322-531c94e3b810" />
    - <img width="4032" height="3024" alt="PXL_20260905_151916000" src="https://github.com/user-attachments/assets/f17743f9-8135-404d-b773-01532a0ebc74" />
 
 
-11. This is it all done.
+10. This is it all done.
    - <img width="4032" height="3024" alt="PXL_20260905_154329856" src="https://github.com/user-attachments/assets/40a15c65-c402-442f-8451-97df7cdf6913" />
 
 
