@@ -63,9 +63,9 @@ Measurements for the STL were done by hand. Half millimeter adjustments may be n
   - [Termux](https://github.com/termux)
   - WPS Office/Google Docs
   - Obsidian
-- I do not recommend opening up the keyboard itself. It's held together by glue and little plastic clips. Opening it up *will* break the plastic clips.
+- I do not recommend opening up the keyboard itself. It's held together by glue and little plastic clips. Opening it up *will* break the plastic clips and it does not come back together. 
 
 ### Final Thoughts
 - This project is a way to turn lightweight tablets into decently portable & effective computers.
-- For small form factor computing with more power, you might also be interested in [MysteriousAlarm897's work]([url](https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/)) on doing something similar with a Lenovo Legion Go. Their first version included space extra batteries, but they also made a slimmer version. Mine is still skinnier though, lol.
-- 
+- For small form factor computing with more power, you might also be interested in [MysteriousAlarm897's work]([url](https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/)) on doing something similar with a Lenovo Legion Go. Their first version included space extra batteries, but they also made a slimmer version.
+  - Mine is still skinnier though, lol.
