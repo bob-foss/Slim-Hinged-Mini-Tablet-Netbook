@@ -1,5 +1,7 @@
 ## Slim Hinged Mini Tablet Netbook
 
+Edit: [Featured on Hackaday!](https://hackaday.com/2026/09/08/old-ipad-keyboard-makes-for-a-modern-netbook/)
+
 This is a simple netbook project revolving around a ZAGG keyboard-case. With this adapter, you can take any mini tablet (about 8 inches diagonally) and make it a functional netbook by combining it with a [ZAGG 5th Gen iPad mini case](https://www.ebay.com/itm/296127718453). ZAGG keyboard-cases are special due to their actual metal hinges (which are unusual for tablets), allowing you to adjust the angle while it sits on your lap. They are also quite affordable. The result is a handsome netbook which makes a satisfying snapping sound when it closes. 
 
 Measurements for the STL were done by hand. Half millimeter adjustments may be necessary. 
